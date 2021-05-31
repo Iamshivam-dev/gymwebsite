@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gymwebsite/static/css/main.d9e64b9b.chunk.css",
-    "main.js": "/gymwebsite/static/js/main.c0d829e5.chunk.js",
-    "main.js.map": "/gymwebsite/static/js/main.c0d829e5.chunk.js.map",
+    "main.css": "/gymwebsite/static/css/main.075f0ed7.chunk.css",
+    "main.js": "/gymwebsite/static/js/main.647fbb43.chunk.js",
+    "main.js.map": "/gymwebsite/static/js/main.647fbb43.chunk.js.map",
     "runtime-main.js": "/gymwebsite/static/js/runtime-main.be9b9897.js",
     "runtime-main.js.map": "/gymwebsite/static/js/runtime-main.be9b9897.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/gymwebsite/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d9b6b9a4.chunk.js": "/gymwebsite/static/js/2.d9b6b9a4.chunk.js",
-    "static/js/2.d9b6b9a4.chunk.js.map": "/gymwebsite/static/js/2.d9b6b9a4.chunk.js.map",
+    "static/js/2.a26548aa.chunk.js": "/gymwebsite/static/js/2.a26548aa.chunk.js",
+    "static/js/2.a26548aa.chunk.js.map": "/gymwebsite/static/js/2.a26548aa.chunk.js.map",
     "index.html": "/gymwebsite/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/gymwebsite/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.d9e64b9b.chunk.css.map": "/gymwebsite/static/css/main.d9e64b9b.chunk.css.map",
-    "static/js/2.d9b6b9a4.chunk.js.LICENSE.txt": "/gymwebsite/static/js/2.d9b6b9a4.chunk.js.LICENSE.txt",
+    "static/css/main.075f0ed7.chunk.css.map": "/gymwebsite/static/css/main.075f0ed7.chunk.css.map",
+    "static/js/2.a26548aa.chunk.js.LICENSE.txt": "/gymwebsite/static/js/2.a26548aa.chunk.js.LICENSE.txt",
     "static/media/HomeStyle.css": "/gymwebsite/static/media/wallapaper4.92802d8f.jpg",
     "static/media/MainLogo.185707ff.png": "/gymwebsite/static/media/MainLogo.185707ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.be9b9897.js",
     "static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.d9b6b9a4.chunk.js",
-    "static/css/main.d9e64b9b.chunk.css",
-    "static/js/main.c0d829e5.chunk.js"
+    "static/js/2.a26548aa.chunk.js",
+    "static/css/main.075f0ed7.chunk.css",
+    "static/js/main.647fbb43.chunk.js"
   ]
 }
