@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gymwebsite/static/css/main.075f0ed7.chunk.css",
-    "main.js": "/gymwebsite/static/js/main.c43d8037.chunk.js",
-    "main.js.map": "/gymwebsite/static/js/main.c43d8037.chunk.js.map",
+    "main.js": "/gymwebsite/static/js/main.0bcae6b5.chunk.js",
+    "main.js.map": "/gymwebsite/static/js/main.0bcae6b5.chunk.js.map",
     "runtime-main.js": "/gymwebsite/static/js/runtime-main.be9b9897.js",
     "runtime-main.js.map": "/gymwebsite/static/js/runtime-main.be9b9897.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/gymwebsite/static/css/2.7fc9bc2b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.dd034559.chunk.js",
     "static/css/main.075f0ed7.chunk.css",
-    "static/js/main.c43d8037.chunk.js"
+    "static/js/main.0bcae6b5.chunk.js"
   ]
 }
